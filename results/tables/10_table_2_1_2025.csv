@@ -1,0 +1,36 @@
+riga,campione,grid_time,valore
+"IV_ATM, 247 regular sessions",all,09:40:00,0.2196750737128275
+"IV_ATM, 247 regular sessions",all,12:00:00,0.1887048857308812
+"IV_ATM, 247 regular sessions",all,15:00:00,0.2009390304579378
+"IV_ATM, 247 regular sessions",all,15:50:00,0.2997243381901426
+"IV_ATM, 226 sessions outside April",non_april,09:40:00,0.2088868802626715
+"IV_ATM, 226 sessions outside April",non_april,12:00:00,0.1833874654324806
+"IV_ATM, 226 sessions outside April",non_april,15:00:00,0.189151468589487
+"IV_ATM, 226 sessions outside April",non_april,15:50:00,0.2795188734041054
+"IV_ATM, 21 April sessions",april,09:40:00,0.5112568007986275
+"IV_ATM, 21 April sessions",april,12:00:00,0.4720073120768983
+"IV_ATM, 21 April sessions",april,15:00:00,0.4437406305929523
+"IV_ATM, 21 April sessions",april,15:50:00,0.6396054832489245
+"Skew, IV(-1) - IV(+1)",all,09:40:00,0.0492868690675991
+"Skew, IV(-1) - IV(+1)",all,12:00:00,0.0377583582951654
+"Skew, IV(-1) - IV(+1)",all,15:00:00,0.0210145058521159
+"Skew, IV(-1) - IV(+1)",all,15:50:00,0.0154103185894191
+"Curvature, IV(-1) + IV(+1) - 2 IV_ATM",all,09:40:00,0.0091197643506194
+"Curvature, IV(-1) + IV(+1) - 2 IV_ATM",all,12:00:00,0.0158535929967155
+"Curvature, IV(-1) + IV(+1) - 2 IV_ATM",all,15:00:00,0.0219026343080254
+"Curvature, IV(-1) + IV(+1) - 2 IV_ATM",all,15:50:00,0.0238685742660187
+Usable OTM puts,all,09:40:00,62.0
+Usable OTM puts,all,12:00:00,48.0
+Usable OTM puts,all,15:00:00,21.0
+Usable OTM puts,all,15:50:00,6.0
+Usable OTM calls,all,09:40:00,25.0
+Usable OTM calls,all,12:00:00,20.0
+Usable OTM calls,all,15:00:00,10.0
+Usable OTM calls,all,15:50:00,4.0
+"One standard deviation, index points",all,09:40:00,36.90825255214536
+"One standard deviation, index points",all,12:00:00,25.47250556089362
+"One standard deviation, index points",all,15:00:00,13.238123848834755
+"One standard deviation, index points",all,15:50:00,8.155098761004698
+minimo IV_ATM,all,14:10:00,0.1797617919609415
+minimo IV_ATM,non_april,13:40:00,0.1754268984820017
+minimo IV_ATM,april,14:50:00,0.4265740237463107

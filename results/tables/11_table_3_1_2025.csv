@@ -1,0 +1,13 @@
+riga,riga_tesi,mediana,p05,p95,n_sessioni
+strike_nello_strip_mediana_nella_sessione,"Strikes in the strip, median within the session",64.0,40.5,114.0,247
+strike_nello_strip_massimo_nella_sessione,"Strikes in the strip, maximum over the session",97.0,62.0,151.0,247
+strike_nello_strip_1555,Strikes in the strip at 15:55,7.0,4.0,16.0,247
+di_cui_put_1555,of which puts,4.0,2.0,8.0,247
+di_cui_call_1555,of which calls,3.0,1.0,8.0,247
+strike_otm_quotati_1555,Listed OTM strikes at 15:55,222.0,193.0,464.0,247
+copertura_sotto_F_1555_sd,"Reach below the forward at 15:55, standard deviations",2.571670784574953,1.606418129769071,3.9973873825312856,247
+copertura_sopra_F_1555_sd,"Reach above the forward at 15:55, standard deviations",2.1492846462181214,1.21058510573719,3.338165837026775,247
+quota_somma_non_troncata_mediana_nella_sessione,"Share of the untruncated sum kept, median within the session",0.5026520452831266,0.2020502756181876,0.8663174764814452,247
+quota_somma_non_troncata_1555,Share of the untruncated sum kept at 15:55,0.0488454431622927,0.0178527980022998,0.2289597379586564,247
+ultimo_minuto_valido,Last valid minute,948.0,925.0,955.0,247
+variante_strike_mediana_senza_minuti_senza_strip,"(non in tesi) come la prima riga, escludendo i minuti senza strip",64.0,41.0,114.0,247
