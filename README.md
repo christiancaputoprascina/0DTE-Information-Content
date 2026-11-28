@@ -88,7 +88,7 @@ The code was run with Python 3.12 and the package versions in `requirements.txt`
   school = {Bocconi University},
   type   = {{MSc} thesis},
   year   = {2026}
-  note   = {Thesis supervisor: Prof. Nome Cognome}
+  note   = {Thesis supervisor: Prof. Claudio Tebaldi}
 }
 ```
 
